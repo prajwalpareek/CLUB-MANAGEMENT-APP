@@ -1,2 +1,2 @@
 # CLUB-MANAGEMENT-APP
-This is ClubManagement Website that I made using Django.
+This is a ClubManagement Website that I made using Django.
